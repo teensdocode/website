@@ -1,0 +1,5 @@
+* { font-family: 'PT Mono', -apple-system, BlinkSystemFont; }
+body { text-align: center; }
+.logo { line-height: 2.7em; }
+.logo>span { color: rgb(157, 218, 84); }
+.logo>b { opacity: .5; }
